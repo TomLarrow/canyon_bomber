@@ -1,2 +1,2 @@
-# canyon_bomber
-A recreation of the 1977 Atari game Canyon Bomber written in the Godot Engine
+# Canyon Bomber
+A [GodotEngine 3](https://godotengine.org/) tutorial to recreate Canyon Bomber
