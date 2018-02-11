@@ -17,5 +17,5 @@ The goal in Canyon Bomber is to destroy the most rocks in the canyon to outscore
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Canyon_Bomber)
 - [Canyon Bomber at Arcade History](https://www.arcade-history.com/?n=canyon-bomber&page=detail&id=377)
 - [Games designed by Howard Delman](https://www.arcade-history.com/index.php?page=person&name=Howard+Delman)
-
+- [Biff's Video Game Review of Canyon Bomber](http://www.youtube.com/watch?v=O1xaxRp_X-o)
 [![Biff's Video Game Review](http://img.youtube.com/vi/O1xaxRp_X-o/0.jpg)](http://www.youtube.com/watch?v=O1xaxRp_X-o "Canyon Bomber")
